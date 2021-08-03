@@ -12,6 +12,7 @@ router.get('/', async (req, res) => {
     res.status(200).json(productData);
   } catch (err) {
     res.status(500).json(err)
+    console.log(err)
   }
 });
 
@@ -32,6 +33,8 @@ router.get('/:id', async (req, res) => {
     res.status(200).json(productData);
   } catch (err) {
     res.status(500).json(err);
+    console.log(err)
+
   }
 });
 
@@ -126,6 +129,8 @@ router.delete('/:id', async (req, res) => {
     res.status(200).json(productData);
   } catch (err) {
     res.status(500).json(err);
+    console.log(err)
+
   }
 });
 
