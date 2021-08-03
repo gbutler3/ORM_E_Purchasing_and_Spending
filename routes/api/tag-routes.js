@@ -19,7 +19,7 @@ router.get('/:id', async (req, res) => {
   // be sure to include its associated Product data
   try {
     const tagData = await Tag.findByPk(req.params.id, {
-      include: [{ model: Product }, { model: ProductTag }],
+      include: { model: Product, attributes: ['product_name', 'price', 'stock', 'category_id']}
     })
 
     if (!tagData) {
