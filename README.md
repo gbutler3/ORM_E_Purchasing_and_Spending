@@ -19,7 +19,7 @@ Build the back end for an e-commerce site by modifying starter code. You’ll co
 - When I open API GET routes in Insomnia Core for categories, products, or tags, the data for each of these routes is displayed in a formatted JSON
 - When I test API POST, PUT, and DELETE routes in Insomnia Core, I am able to successfully create, update, and delete data in my database
 
-## WalkThrough
+## Walk Through
 
 Click below to see a walk through of the application:
 [ Demo!](https://drive.google.com/file/d/1-gKry4miUb5V7I8m40BUsmUkccxpTWio/view?usp=sharing)
