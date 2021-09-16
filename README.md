@@ -21,8 +21,7 @@ Build the back end for an e-commerce site by modifying starter code. You’ll co
 
 ## Walk Through
 
-Click below to see a walk through of the application:
-[ Demo!](https://drive.google.com/file/d/1-gKry4miUb5V7I8m40BUsmUkccxpTWio/view?usp=sharing)
+https://user-images.githubusercontent.com/82067962/133665872-be824941-f7cb-4ad0-82d0-6c8d443f5c35.mp4
 
 ## License
 
